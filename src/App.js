@@ -10,8 +10,12 @@ function App() {
         <Form />
         <GeneralContainer />
         <footer>
-          Open-source code by
-          <a href="https://github.com/Veronika-Podolska/my-app" target="_blank">
+          Open-source code by {""}
+          <a
+            href="https://github.com/Veronika-Podolska/my-app"
+            target="_blank"
+            rel="noreferrer"
+          >
             Veronika Podolska
           </a>
         </footer>

@@ -6,10 +6,13 @@ export default function AdditionalWeatherInfo(props) {
     <div className="row">
       <div className="col degree-info">
         <span id="current-degree">{props.temperature}</span>
-        <a href="#" id="celsius-link">
+        <a href="https://github.com/Veronika-Podolska/my-app" id="celsius-link">
           °C|
         </a>
-        <a href="#" id="fahrenheit-link">
+        <a
+          href="https://github.com/Veronika-Podolska/my-app"
+          id="fahrenheit-link"
+        >
           F
         </a>
       </div>
