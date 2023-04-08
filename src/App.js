@@ -11,7 +11,7 @@ function App() {
         <GeneralContainer />
         <footer>
           Open-source code by
-          <a href="" target="_blank">
+          <a href="https://github.com/Veronika-Podolska/my-app" target="_blank">
             Veronika Podolska
           </a>
         </footer>
